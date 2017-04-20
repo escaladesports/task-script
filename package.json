@@ -1,6 +1,6 @@
 {
   "name": "task-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES6 processing task",
   "main": "index.js",
   "repository": "https://github.com/escaladesports/task-script.git",
